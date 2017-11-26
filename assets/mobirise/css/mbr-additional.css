@@ -1342,12 +1342,12 @@ body {
 }
 .cid-qBJuSlkwlx .navbar {
   padding: .5rem 0;
-  background: #b2ccd2;
+  background: #879a9f;
   transition: none;
   min-height: 77px;
 }
 .cid-qBJuSlkwlx .navbar-dropdown.bg-color.transparent.opened {
-  background: #b2ccd2;
+  background: #879a9f;
 }
 .cid-qBJuSlkwlx a {
   font-style: normal;
@@ -1431,7 +1431,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qBJuSlkwlx .dropdown .dropdown-menu {
-  background: #b2ccd2;
+  background: #879a9f;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1902,15 +1902,83 @@ body {
 .cid-qBPqe1Ut9L .mbr-text {
   text-align: center;
 }
-.cid-qBPs2ekOrP {
+.cid-qC6Qpqvhtq {
+  background-image: url("../../../assets/images/mbr-1.jpg");
+}
+.cid-qC6Qpqvhtq .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-qC6Qpqvhtq .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qC6Qpqvhtq .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-qC6Qpqvhtq .mbr-text,
+.cid-qC6Qpqvhtq .mbr-section-btn {
+  text-align: center;
+}
+.cid-qC6Qpqvhtq .mbr-text,
+.cid-qC6Qpqvhtq .mbr-section-btn B {
+  color: #ffffff;
+}
+.cid-qC6ScTKnYh {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-qC6ScTKnYh .card-img a {
+  display: block;
+  padding-top: 2rem;
+}
+.cid-qC6ScTKnYh .card-box {
+  padding: 0 2rem;
+}
+.cid-qC6ScTKnYh .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qC6ScTKnYh .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qC6ScTKnYh h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-qC6ScTKnYh p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qC6ScTKnYh .mbr-text {
+  color: #767676;
+}
+.cid-qC6ScTKnYh .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qC6ScTKnYh .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qC6VAnJZRt {
   padding-top: 90px;
   padding-bottom: 90px;
   background: linear-gradient(0deg, #7fdbfd, #6670a9);
 }
-.cid-qBPs2ekOrP .mbr-iconfont-social {
+.cid-qC6VAnJZRt .mbr-iconfont-social {
   font-size: 32px;
   color: #ff3366;
 }
-.cid-qBPs2ekOrP .social-list a:focus {
+.cid-qC6VAnJZRt .social-list a:focus {
   text-decoration: none;
 }
