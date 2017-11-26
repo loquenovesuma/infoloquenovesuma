@@ -34,8 +34,8 @@
         "#7fbcff"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/logo-copia.jpeg",
-    "noImageResize": "",
+    "favicon": "",
+    "noImageResize": "true",
     "google-analytics": ""
   },
   "pages": {
