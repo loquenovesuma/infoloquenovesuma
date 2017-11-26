@@ -36,7 +36,7 @@
       ]
     },
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": ""
   },
   "pages": {
