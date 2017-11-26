@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower:400);
+@import url(https://fonts.googleapis.com/css?family=Pacifico:400);
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,14 +23,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Indie Flower', handwriting;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Pacifico', handwriting;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -41,7 +44,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
@@ -135,7 +138,7 @@ body {
   background-color: #f7ed4a !important;
 }
 .bg-info {
-  background-color: #82786e !important;
+  background-color: #c4bc3b !important;
 }
 .bg-warning {
   background-color: #879a9f !important;
@@ -185,8 +188,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #82786e;
-  border-color: #82786e;
+  background-color: #c4bc3b;
+  border-color: #c4bc3b;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -194,14 +197,14 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff;
-  background-color: #59524b;
-  border-color: #59524b;
+  background-color: #898429;
+  border-color: #898429;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #59524b !important;
-  border-color: #59524b !important;
+  background-color: #898429 !important;
+  border-color: #898429 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -349,22 +352,22 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #4b453f;
-  color: #4b453f;
+  border-color: #767123;
+  color: #767123;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #82786e;
-  border-color: #82786e;
+  background-color: #c4bc3b;
+  border-color: #c4bc3b;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #82786e !important;
-  border-color: #82786e !important;
+  background-color: #c4bc3b !important;
+  border-color: #c4bc3b !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -470,7 +473,7 @@ body {
   color: #f7ed4a !important;
 }
 .text-info {
-  color: #82786e !important;
+  color: #c4bc3b !important;
 }
 .text-warning {
   color: #879a9f !important;
@@ -498,7 +501,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #4b453f !important;
+  color: #767123 !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -520,7 +523,7 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #82786e;
+  background-color: #c4bc3b;
 }
 .alert-warning {
   background-color: #879a9f;
@@ -568,7 +571,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #beb8b2;
+  color: #e2dd9d;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -1722,7 +1725,7 @@ body {
   color: #149dcc;
 }
 .cid-qBJuSmKdgI SPAN {
-  color: #ffffff;
+  color: #f7ed4a;
 }
 .cid-qBJuSmKdgI .mbr-text,
 .cid-qBJuSmKdgI .mbr-section-btn {
@@ -1747,12 +1750,12 @@ body {
   color: #767676;
 }
 .cid-qBPjke1FtB {
-  padding-top: 90px;
-  padding-bottom: 75px;
-  background-color: #efefef;
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-qBPjke1FtB .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qBPjke1FtB .mbr-text {
   color: #767676;
@@ -1797,7 +1800,7 @@ body {
   height: 100%;
 }
 .cid-qBPjke1FtB .card-wrapper .card-box {
-  background-color: #ffffff;
+  background-color: #b2ccd2;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
@@ -1832,6 +1835,9 @@ body {
 }
 .cid-qBPjke1FtB .card-title {
   text-align: center;
+}
+.cid-qBPjke1FtB .mbr-section-title B {
+  color: #e4d295;
 }
 .cid-qBPqe1Ut9L {
   padding-top: 90px;
