@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower:400);
-@import url(https://fonts.googleapis.com/css?family=Pacifico:400);
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah:400);
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
@@ -30,7 +30,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Pacifico', handwriting;
+  font-family: 'Gloria Hallelujah', handwriting;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -1718,14 +1718,14 @@ body {
   flex-basis: auto;
 }
 .cid-qBJuSmKdgI {
-  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
 .cid-qBJuSmKdgI H1 {
   text-align: center;
   color: #149dcc;
 }
 .cid-qBJuSmKdgI SPAN {
-  color: #f7ed4a;
+  color: #dadada;
 }
 .cid-qBJuSmKdgI .mbr-text,
 .cid-qBJuSmKdgI .mbr-section-btn {
